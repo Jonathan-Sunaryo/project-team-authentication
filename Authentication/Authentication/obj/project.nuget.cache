@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "c1TKD+VETuxSi91+2pSasKKB2WpCb7XT4KWT1wLixPRCL0xtMIdMmf8fUR5CZbk5HhNXLxoM1i3A5XUUaI3F1Q==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\E5473G\\source\\repos\\Authentication\\Authentication\\Authentication.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\E5473G\\.nuget\\packages\\bcrypt.net-core\\1.6.0\\bcrypt.net-core.1.6.0.nupkg.sha512",
+    "C:\\Users\\E5473G\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}
